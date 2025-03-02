@@ -190,3 +190,4 @@ ehthumbs.db
 logs/
 *.log
 
+anaconda_projects/db/project_filebrowser.db
